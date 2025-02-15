@@ -1,9 +1,7 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: InfoTronics module site
+title: Static site test
 theme: ["PaperMod"]
 
 params:
-    disableThemeToggle: true
-    defaultTheme: light
     ShowCodeCopyButtons: true

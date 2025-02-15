@@ -2,15 +2,27 @@
 title: "Bienvenido"
 description: "Esta es la página oficial del InfoTronics module"
 ---
-# Bievenido a la homepage
+# Specs 
+# Instructions
+# FAQs
+
+## This is not some advanced C code:
+
+```c
+#include <stdio.h>
+
+int main() {
+    // Print "Hello, World!" to the console
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+This is some text
+
+
 ![My Image](/images/pcb.jpg)
 
-Esto forma parte del contenido!
 
-{{< myButton href="https://example.com" >}}Click Me{{< /myButton >}}
+{{< myButton href="https://example.com" >}}Just a button{{< /myButton >}}
 
 
-```yml {linenos=true}
-params:
-  env: production
-```
