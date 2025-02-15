@@ -1,3 +1,9 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: InfoTronics module site
+theme: ["PaperMod"]
+
+params:
+    disableThemeToggle: true
+    defaultTheme: light
+    ShowCodeCopyButtons: true
